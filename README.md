@@ -1,0 +1,1 @@
+# Praktikum-1-Pemrograman-Shared-Memory-dengan-OpenMP
